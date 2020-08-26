@@ -20,7 +20,10 @@ const unleashDog = (dogName,dogBreed) => {
   return(`Unleash ${dogName} the ${dogBreed}`);
 }
 
-const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, 
+const routine = [wakeDog(), leashDog, walkToPark, throwFrisbee, walkHome, 
 unleashDog]
 
   
+const exerciseDog = () => {
+  
+}
