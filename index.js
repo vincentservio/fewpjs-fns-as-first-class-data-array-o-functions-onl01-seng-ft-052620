@@ -1,0 +1,3 @@
+const wakedog = () => {
+  console.log()
+}
