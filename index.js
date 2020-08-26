@@ -24,6 +24,6 @@ const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome,
 unleashDog]
 
   
-const exerciseDog = () => {
+const exerciseDog = (dogName, dogBreed) => {
   routine.map(e => e(dogName, dogBreed))
 }
