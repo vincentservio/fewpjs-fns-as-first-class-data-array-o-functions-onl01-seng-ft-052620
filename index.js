@@ -3,5 +3,5 @@ const wakeDog = (dogName,dogBreed) => {
 }
 
 const leashDog = (dogName,dogBreed) => {
-  return(`leash ${dogName} the ${dogBreed}`);
+  return(`Leash ${dogName} the ${dogBreed}`);
 }
