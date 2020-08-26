@@ -25,5 +25,5 @@ unleashDog]
 
   
 const exerciseDog = () => {
-  routine.map(e => e)
+  routine.map(e => e(dogName, dogBreed))
 }
