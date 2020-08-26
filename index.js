@@ -19,3 +19,8 @@ const walkHome = (dogName,dogBreed) => {
 const unleashDog = (dogName,dogBreed) => {
   return(`Unleash ${dogName} the ${dogBreed}`);
 }
+
+const routine = [wakeDog,]
+
+  
+}
