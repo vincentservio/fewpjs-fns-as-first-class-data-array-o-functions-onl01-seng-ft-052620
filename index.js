@@ -9,3 +9,7 @@ const leashDog = (dogName,dogBreed) => {
 const walkToPark = (dogName,dogBreed) => {
   return(`Walk to the park with ${dogName} the ${dogBreed}`);
 }
+
+const walkToPark = (dogName,dogBreed) => {
+  return(`Walk to the park with ${dogName} the ${dogBreed}`);
+}
