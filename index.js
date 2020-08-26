@@ -11,5 +11,5 @@ const walkToPark = (dogName,dogBreed) => {
 }
 
 const throwFrisbee = (dogName,dogBreed) => {
-  return(`throwFrisbee ${dogName} the ${dogBreed}`);
+  return(`Throw the frisbee for ${dogName} the ${dogBreed}`);
 }
